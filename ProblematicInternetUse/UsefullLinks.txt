@@ -1,0 +1,17 @@
+https://medium.com/@ethanrwong/predicting-problematic-internet-use-in-children-ffce468cd155
+https://www.kaggle.com/code/neuromanxer/lb0-494-with-tabnet-ea51fd
+https://www.kaggle.com/code/arthurcapati/child-mind-institute/notebook
+https://www.kaggle.com/code/cgdd2511/childmindinstitute
+https://www.kaggle.com/code/jobayerhossain/child-mind-piu-3rd-place-solution
+https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/writeups/jobayer-hossain-child-mind-institute-piu-3rd-place
+https://medium.com/@kevinsjy/kaggle-competition-wrap-up-child-mind-institute-detect-sleep-states-30d069c1d48e
+https://www.kaggle.com/code/antoninadolgorukova/cmi-piu-features-eda
+https://www.kaggle.com/code/vipulgandhi/how-to-choose-right-metric-for-evaluating-ml-model
+https://openreview.net/pdf?id=DZI0v9KRU0
+https://www.kaggle.com/code/jacoporepossi/tutorial-quadratic-weighted-kappa-explained
+https://medium.com/@nlztrk/quadratic-weighted-kappa-qwk-metric-and-how-to-optimize-it-062cc9121baa
+https://www.kaggle.com/code/yukawithdata/cohen-s-kappa-the-quadratic-weighted-kappa
+https://www.emergentmind.com/topics/quadratic-weighted-kappa
+https://www.kaggle.com/code/reighns/understanding-the-quadratic-weighted-kappa
+https://www.kaggle.com/code/antoninadolgorukova/cmi-piu-actigraphy-data-eda
+https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/writeups/lennart-haupts-first-place-write-up-or-how-i-won-t
